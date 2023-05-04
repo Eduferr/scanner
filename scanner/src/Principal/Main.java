@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		
+	// Código comentados para serem executados separados
 /*
 	Scanner sc = new Scanner(System.in);
 	String x;
